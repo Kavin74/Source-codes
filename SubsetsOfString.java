@@ -9,5 +9,5 @@ public class StrManipulation{
 
     public static void main (String args[]){
         combinations("","12345");
-        }
+        } 
 }
